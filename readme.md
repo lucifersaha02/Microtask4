@@ -1,6 +1,7 @@
 
 # First Microtask
-## It is an API which returns some dummy repository details and accepts a token for authentication.
+## It is a microservice to handle error
+
 
 
 
