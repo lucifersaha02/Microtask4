@@ -6,44 +6,17 @@
 
 ## API Reference
 
-#### Get all repos forecast/status
+#### Get error message
 
 ```http
-  GET https://pom935.deta.dev/api/repos
+  GET https://7bmnzi.deta.dev/api/error-endpoint
 ```
-
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `header` | `token` | **Required**. [eg: akaza, pragyash, p0mp0m]|
-
-#### Get particular repo
-
-```http
-  GET https://pom935.deta.dev/api/repos/:name
-```
-
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `header` | `token` | **Required**. [eg: akaza, pragyash, p0mp0m]|
-
-
-
-
-
-
-
-![App Screenshot](https://i.imgur.com/jefBxP9.png)
-
-![App Screenshot](https://i.imgur.com/Hx1IMYD.png)
-## Author
-
-- [@akaza21](https://www.github.com/akaza21)
 
 
 ## Installation
 
 ```bash
-    git clone https://github.com/akaza21/Microtask1
+    git clone https://github.com/lucifersaha02/Microtask1
 
 ```
 ### `Navigation`
@@ -78,7 +51,7 @@
 ## Installation
 
 ```bash
-    git clone https://github.com/akaza21/MicroTask2
+    git clone https://github.com/lucifersaha02/MicroTask2
 
 ```
 ### `Navigation`
@@ -106,15 +79,6 @@
 
 
 ## API Reference
-### ErrorHandler
-
-#### Get a random error message which is handled by a dummy ErrorHandler middleware
-
-```http
-  GET http://localhost:3000/api/error
-```
-
-
 
 ### Authentication
 
@@ -166,12 +130,21 @@
 
 ![App Screenshot](https://i.imgur.com/Hx1IMYD.png)
 ![App Screenshot](https://i.imgur.com/S1PqbnD.png)
-## Author
-
-- [@akaza21](https://www.github.com/akaza21)
 
 
 
+
+
+
+
+
+### ErrorHandler
+
+#### Get a random error message which is handled by a dummy ErrorHandler middleware
+
+```http
+  GET http://localhost:3000/api/error
+```
 
 
 
@@ -185,7 +158,7 @@
 ## Installation
 
 ```bash
-    git clone https://github.com/akaza21/MicroTask3
+    git clone https://github.com/lucifersaha/MicroTask3
 
 ```
 ### `Navigation`
@@ -216,7 +189,7 @@
 #### Takes the user's location and returns their address
 
 ```http
-  GET https://twmkv2.deta.dev/get-address
+  GET https://x6eeap.deta.dev/get-address
 ```
 
 
@@ -226,11 +199,9 @@
 
 
 
-![App Screenshot](https://i.imgur.com/3upQZmH.png)
-
 ## Author
 
-- [@akaza21](https://www.github.com/akaza21)
+- [@lucifersaha20](https://www.github.com/lucifersaha20)
 
 
 
